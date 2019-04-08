@@ -1,5 +1,7 @@
 길벗 출판사 "모던 C++ 디자인 패턴" (원서: 'Design Patterns in Modern C++' by Dmitri Nesteruk)의 역자 수정 예제 코드 입니다. 
 
+역자의 저장소 https://github.com/ronykwon/design-patterns-in-modern-cpp에서 받을 수 있습니다.
+
 설치 방법:
 
 #0: Microsoft Visual Studio 2017 버전을 설치 합니다.
