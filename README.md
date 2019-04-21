@@ -2,8 +2,10 @@
 
 설치 방법:
 
-#0: Microsoft Visual Studio 2017 버전을 설치 합니다(2019등 다른 버전을 설치하면 안됩니다).
+#0: Microsoft Visual Studio 2017 버전을 설치 합니다.
     아래의 페이지에서 다운로드 받을 수 있습니다.
+    (2019등 다른 버전을 설치하면 안됩니다)
+
     https://visualstudio.microsoft.com/ko/vs/community/
 
 #1: 본 github를 zip 으로 다운로드 받고 c:\ 에 풉니다.
